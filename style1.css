@@ -1,0 +1,60 @@
+#carouselExampleControls{
+    height: 400px;
+    
+}
+
+.kaurasel-foto{
+    height: 400px !important;
+    object-fit: cover;
+}
+
+.featurette-divider{
+    margin: 5rem 0;
+    width: 100%;
+}
+
+.navigasyonbar{
+    background-color:#6c757d ;
+}
+
+.foto2{
+    max-width: 100%;
+    height: 500px;
+    width: 500px;
+}
+
+.konteynir{
+    position: relative;
+    
+}
+
+.first-slide{
+    text-align: left !important;
+}
+
+.third-slide{
+    text-align: right !important;
+}
+
+.carasel-buton{
+    border: 0;
+    background-color: transparent;
+}
+
+.son-footer{
+    width: 100%;
+}
+
+.medya{
+    width:500px;
+    height:500px;
+    max-width: 100% !important;
+}
+
+@media only screen and (max-width: 768px){
+  .medya
+    {
+        width: 100% !important;    
+    }
+}
+
